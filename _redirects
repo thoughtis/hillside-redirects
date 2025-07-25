@@ -1,0 +1,5 @@
+# redirects frim hillsideschoolhouse to clearingfarm
+http://hillsideschoolhouse.com/* https://clearingfarm.com/:splat 301!
+https://hillsideschoolhouse.com/* https://clearingfarm.com/:splat 301!
+http://www.hillsideschoolhouse.com/* https://clearingfarm.com/:splat 301!
+https://www.hillsideschoolhouse.com/* https://clearingfarm.com/:splat 301!
